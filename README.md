@@ -47,7 +47,46 @@ Zenora aspires to be more than a technological solution; it seeks to be a compas
 
 - [Technology implementation](#technology-implementation)
   - [IBM AI service(s) used](#ibm-ai-services-used)
+  
+1. IBM Watson Studio
+
+Usage: Zenora utilizes IBM Watson Studio as a collaborative workspace for data scientists, developers, and domain experts. This platform facilitates the creation and deployment of machine learning models, fostering ongoing learning and enhancement for Zenora's AI algorithms.
+
+2. IBM Natural Language Understanding (NLU)
+
+Usage: Zenora utilizes IBM NLU to examine the linguistic patterns within user conversations, allowing the system to infer emotional states, detect potential risks, and customize responses for individual users. This service plays a vital role in comprehending the intricate nuances present in textual interactions.
+
+3. Watson Assistant
+   
+Usage: Watson Assistant is seamlessly incorporated into the Zenora platform to enable natural language conversations with users. Serving as a pivotal element, it plays a central role in crafting a smooth and empathetic interaction, enabling users to interact with Zenora in a manner akin to engaging with a trusted friend.
+
+4. Watson Discovery
+
+Usage: Zenora utilizes Watson Discovery to augment its comprehension of user needs and preferences. Through the integration of this service, Zenora can offer more personalized recommendations and coping strategies, thereby enhancing the user experience with a more customized and effective approach.
+
+5. Watson Text to Speech
+
+Usage: Zenora employs Watson Text to Speech to deliver voice responses to users. This functionality elevates the conversational dimension of the interaction, creating a more natural and engaging user experience.
+
+6. Watson Speech to Text
+
+Usage: For users who favor voice interactions, Zenora integrates Watson Speech to Text to convert spoken words into text. This feature guarantees that the system can assess both textual and speech components, enabling a comprehensive understanding of the user's communication style.
+
+7. IBM Watson Tone Analyzer
+
+Usage: We utilize Tone Analyzer to identify emotional and language tones present in user messages. Through an analysis of word choice and phrasing, Tone Analyzer offers additional insights into the user's current state and mental health needs. These valuable cues make it possible to respond more effectively to users' emotions and tailor its support accordingly.
+
+
+
+By integrating these IBM Watson services, our mental health solution gains the ability to understand user needs, tailor its support approach, and engage in conversational interactions through various communication modes. The AI capabilities significantly enhance the user experience and the overall effectiveness of the solution.
+
+
   - [Other IBM technology used](#other-ibm-technology-used)
+    
+IBM Cloud - Hosting the solution on IBM Cloud ensures scalability, security, and rapid deployment. Leveraging IBM Cloud services such as Cloud Foundry, Object Storage, and Kubernetes establishes a robust infrastructure supporting both our web-based and mobile applications.
+
+
+    
   - [Solution architecture](#solution-architecture)
 - [Presentation materials](#presentation-materials)
   - [Solution demo video](#solution-demo-video)
