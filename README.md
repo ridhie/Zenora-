@@ -87,58 +87,7 @@ IBM Cloud - Hosting the solution on IBM Cloud ensures scalability, security, and
 
 
     
-  - [Solution architecture](#solution-architecture)
-- [Presentation materials](#presentation-materials)
-  - [Solution demo video](#solution-demo-video)
-  - [Project development roadmap](#project-development-roadmap)
-- [Additional details](#additional-details)
-  - [How to run the project](#how-to-run-the-project)
-  - [Live demo](#live-demo)
-- [About this template](#about-this-template)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
-
-_INSTRUCTIONS: Complete all required deliverable sections below._
-
-## Project summary
-
-### The issue we are hoping to solve
-
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
-
-### How our technology solution can help
-
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
-
-### Our idea
-
-INSTRUCTIONS: Replace this paragraph with a longer description of your solution. In about 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in this source code repository that you link to as well.
-
-More detail is available in our [description document](./docs/DESCRIPTION.md).
-
-## Technology implementation
-
-### IBM AI service(s) used
-
-_INSTRUCTIONS: Included here is a list of commonly used IBM AI services. Remove any services you did not use, or add others from the linked catalog not already listed here. Leave only those included in your solution code. Provide details on where and how you used each IBM AI service to help judges review your implementation. Remove these instructions._
-
-- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- List any additional [IBM AI services](https://cloud.ibm.com/catalog?category=ai#services) used or remove this line
-
-### Other IBM technology used
-
-INSTRUCTIONS: List any other IBM technology used in your solution and describe how each component was used. If you can provide links to/details on exactly where these were used in your code, that would help the judges review your submission.
-
-### Solution architecture
-
-Diagram and step-by-step description of the flow of our solution:
+  - [Solution architecture](#solution-architecture) Diagram and step-by-step description of the flow of our solution:
 
  https://lucid.app/lucidchart/0b79c78e-6508-4504-8afb-1429b585bc1a/edit?viewport_loc=-224%2C-155%2C2848%2C1528%2C3d1rrcLtfdPh&invitationId=inv_2a2c93cc-ee03-4b99-bffb-40ccbeeddf9a
 
@@ -153,4 +102,50 @@ Diagram and step-by-step description of the flow of our solution:
 9. IBM Cloud Kubernetes Service ensures scalable and efficient deployment.
 10. Tone Analyzer monitors and adjusts support based on emotional tones.
 11. IBM Cloud supports educational and stigma reduction services for a comprehensive mental health solution.
+
+
+### Project development roadmap
+
+The project currently does the following things.
+
+- Feature 1: Project Kickoff – Zenora initiates user engagement with a seamless project kickoff, providing users with an introduction to the platform and its capabilities.
+  
+- Feature 2: Expanded IBM Watson Integration – Continuously harnessing the latest advancements in AI, Zenora aims to deepen its integration with IBM Watson, introducing cutting-edge capabilities for a more sophisticated user experience.
+  
+- Feature 3: Interactive User Workshops – Creating a collaborative space, Zenora envisions hosting interactive user workshops to gather real-time feedback, ensuring ongoing refinement and responsiveness to user needs.
+
+In the future we plan to we plan to further elevate the Zenora experience through:
+
+Future Feature 1: Advanced User Personalization – Building on user research, Zenora will implement advanced personalization techniques to tailor interactions based on individual preferences and experiences.
+
+Future Feature 2: Expanded IBM Watson Integration – Continuously harnessing the latest advancements in AI, Zenora aims to deepen its integration with IBM Watson, introducing cutting-edge capabilities for a more sophisticated user experience.
+
+Future Feature 3: Interactive User Workshops – Creating a collaborative space, Zenora envisions hosting interactive user workshops to gather real-time feedback, ensuring ongoing refinement and responsiveness to user needs.
+
+Design Prototyping: Zenora will undergo design prototyping to enhance its user interface, ensuring a seamless and intuitive experience.
+
+Alpha and Beta Testing: Rigorous testing phases will be conducted to identify and address any potential issues, refining Zenora for optimal performance.
+
+Community Engagement: Zenora is committed to fostering a vibrant and supportive community, engaging users in meaningful ways to create a sense of belonging.
+
+Public Launch: Zenora will celebrate its official launch, making its transformative mental health support accessible to a wider audience.
+
+Post Launch Optimization: Continuous optimization efforts will be implemented post-launch, incorporating user feedback and addressing evolving mental health needs.
+
+Long-Term Sustainability: Zenora is dedicated to long-term sustainability, ensuring its enduring impact on mental health support.
+
+This extended plan outlines the meticulous steps Zenora will take in the future, from design enhancements to a sustainable and impactful long-term vision. Feel free to customize the details based on Zenora's unique approach and goals.
+
+
+
+
+
+
+
+
+    
+ 
+User Research and Personal Development.
+IBM Watson Integration.
+
 
