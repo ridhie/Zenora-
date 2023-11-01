@@ -116,25 +116,82 @@ The project currently does the following things.
 
 In the future we plan to we plan to further elevate the Zenora experience through:
 
-Future Feature 1: Advanced User Personalization – Building on user research, Zenora will implement advanced personalization techniques to tailor interactions based on individual preferences and experiences.
+- Future Feature 1: Advanced User Personalization – Building on user research, Zenora will implement advanced personalization techniques to tailor interactions based on individual preferences and experiences.
 
-Future Feature 2: Expanded IBM Watson Integration – Continuously harnessing the latest advancements in AI, Zenora aims to deepen its integration with IBM Watson, introducing cutting-edge capabilities for a more sophisticated user experience.
+- Future Feature 2: Expanded IBM Watson Integration – Continuously harnessing the latest advancements in AI, Zenora aims to deepen its integration with IBM Watson, introducing cutting-edge capabilities for a more sophisticated user experience.
 
-Future Feature 3: Interactive User Workshops – Creating a collaborative space, Zenora envisions hosting interactive user workshops to gather real-time feedback, ensuring ongoing refinement and responsiveness to user needs.
+- Future Feature 3: Interactive User Workshops – Creating a collaborative space, Zenora envisions hosting interactive user workshops to gather real-time feedback, ensuring ongoing refinement and responsiveness to user needs.
 
-Design Prototyping: Zenora will undergo design prototyping to enhance its user interface, ensuring a seamless and intuitive experience.
+- Design Prototyping: Zenora will undergo design prototyping to enhance its user interface, ensuring a seamless and intuitive experience.
 
-Alpha and Beta Testing: Rigorous testing phases will be conducted to identify and address any potential issues, refining Zenora for optimal performance.
+- Alpha and Beta Testing: Rigorous testing phases will be conducted to identify and address any potential issues, refining Zenora for optimal performance.
 
-Community Engagement: Zenora is committed to fostering a vibrant and supportive community, engaging users in meaningful ways to create a sense of belonging.
+- Community Engagement: Zenora is committed to fostering a vibrant and supportive community, engaging users in meaningful ways to create a sense of belonging.
 
-Public Launch: Zenora will celebrate its official launch, making its transformative mental health support accessible to a wider audience.
+- Public Launch: Zenora will celebrate its official launch, making its transformative mental health support accessible to a wider audience.
 
-Post Launch Optimization: Continuous optimization efforts will be implemented post-launch, incorporating user feedback and addressing evolving mental health needs.
+- Post Launch Optimization: Continuous optimization efforts will be implemented post-launch, incorporating user feedback and addressing evolving mental health needs.
 
-Long-Term Sustainability: Zenora is dedicated to long-term sustainability, ensuring its enduring impact on mental health support.
+- Long-Term Sustainability: Zenora is dedicated to long-term sustainability, ensuring its enduring impact on mental health support.
 
-This extended plan outlines the meticulous steps Zenora will take in the future, from design enhancements to a sustainable and impactful long-term vision. Feel free to customize the details based on Zenora's unique approach and goals.
+
+### How to run the project
+
+1. Accessing the Platform:
+Users can access Zenora through its dedicated website or mobile application.
+Ensure that the platform is accessible and responsive across various devices and browsers.
+
+2. User Registration:
+Users can create accounts on Zenora by providing necessary information.
+Implement a secure and user-friendly registration process.
+
+3. Onboarding:
+Facilitate a smooth onboarding experience, guiding users through the platform's features and functionalities.
+
+4. Engagement Features:
+Encourage users to engage with Zenora's AI-driven features, such as real-time emotional support and personalized coping strategies.
+Ensure that user interactions are intuitive and align with their mental health needs.
+
+5. IBM Watson Integration:
+Leverage the power of IBM Watson to enhance the platform's AI capabilities continually.
+Monitor and optimize the integration to deliver more accurate and personalized support.
+
+6. User Feedback:
+Establish mechanisms for users to provide feedback on their experiences.
+Regularly review user feedback to identify areas for improvement and optimization.
+
+7. Community Engagement:
+Foster a sense of community by encouraging users to share their experiences and support each other.
+Host interactive workshops and discussions to strengthen community ties.
+
+8. Security Measures:
+Regularly update and monitor security protocols to safeguard user data and ensure a secure environment.
+
+9. Design Prototyping:
+Implement design prototyping to refine the platform's user interface based on user feedback and evolving design trends.
+
+10. Alpha and Beta Testing:
+Conduct periodic testing phases to identify and address any potential issues promptly.
+Involve users in alpha and beta testing to gather real-world insights.
+
+11. Public Launch Events:
+Plan and execute public launch events to generate excitement and awareness about Zenora.
+Utilize marketing strategies to reach a broader audience.
+
+12. Post Launch Optimization:
+Continuously optimize Zenora based on post-launch feedback and emerging mental health trends.
+Implement updates and new features to enhance the platform's effectiveness.
+
+13. Long-Term Sustainability:
+Develop and implement strategies for the long-term sustainability of Zenora.
+Explore partnerships, funding opportunities, and collaborations to ensure continued growth and impact.
+
+
+### Live demo 
+
+Zenora Demo
+
+
 
 
 
