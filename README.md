@@ -140,12 +140,20 @@ INSTRUCTIONS: List any other IBM technology used in your solution and describe h
 
 Diagram and step-by-step description of the flow of our solution:
 
-![Video transcription/translaftion app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Video transcription/translaftion app] https://lucid.app/lucidchart/0b79c78e-6508-4504-8afb-1429b585bc1a/edit?viewport_loc=-224%2C-155%2C2848%2C1528%2C3d1rrcLtfdPh&invitationId=inv_2a2c93cc-ee03-4b99-bffb-40ccbeeddf9a
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. Users start by using Zenora's web or mobile app.
+2. IBM Cloud services make the system scalable and secure.
+3. IBM Watson's NLP understands users' emotions and identifies risks.
+4. Watson Assistant provides natural and empathetic conversations.
+5. Watson Discovery extracts valuable insights from user data.
+6. Optional Watson Text to Speech enriches interactions with voice responses.
+7. User data is securely stored in IBM Cloud Object Storage.
+8. Continuous learning and development occur in IBM Watson Studio.
+9. IBM Cloud Kubernetes Service ensures scalable and efficient deployment.
+10. Tone Analyzer monitors and adjusts support based on emotional tones.
+11. IBM Cloud supports educational and stigma reduction services for a comprehensive mental health solution.
+
 
 ## Presentation materials
 
