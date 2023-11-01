@@ -140,7 +140,7 @@ INSTRUCTIONS: List any other IBM technology used in your solution and describe h
 
 Diagram and step-by-step description of the flow of our solution:
 
-![Video transcription/translaftion app] https://lucid.app/lucidchart/0b79c78e-6508-4504-8afb-1429b585bc1a/edit?viewport_loc=-224%2C-155%2C2848%2C1528%2C3d1rrcLtfdPh&invitationId=inv_2a2c93cc-ee03-4b99-bffb-40ccbeeddf9a
+ https://lucid.app/lucidchart/0b79c78e-6508-4504-8afb-1429b585bc1a/edit?viewport_loc=-224%2C-155%2C2848%2C1528%2C3d1rrcLtfdPh&invitationId=inv_2a2c93cc-ee03-4b99-bffb-40ccbeeddf9a
 
 1. Users start by using Zenora's web or mobile app.
 2. IBM Cloud services make the system scalable and secure.
@@ -154,69 +154,3 @@ Diagram and step-by-step description of the flow of our solution:
 10. Tone Analyzer monitors and adjusts support based on emotional tones.
 11. IBM Cloud supports educational and stigma reduction services for a comprehensive mental health solution.
 
-
-## Presentation materials
-
-_INSTRUCTIONS: The following deliverables should be officially posted to your My Team > Submissions section of the [Call for Code Global Challenge resources site](https://cfc-prod.skillsnetwork.site/), but you can also include them here for completeness. Replace the examples seen here with your own deliverable links._
-
-### Solution demo video
-
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
-
-### Project development roadmap
-
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-In the future we plan to...
-
-See below for our proposed schedule on next steps after Call for Code 2023 submission.
-
-![Roadmap](./images/roadmap.jpg)
-
-## Additional details
-
-_INSTRUCTIONS: The following deliverables are suggested, but **optional**. Additional details like this can help the judges better review your solution. Remove any sections you are not using._
-
-### How to run the project
-
-INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-### Live demo
-
-You can find a running system to test at...
-
-See our [description document](./docs/DESCRIPTION.md) for log in credentials.
-
----
-
-_INSTRUCTIONS: You can remove the below section from your specific project README._
-
-## About this template
-
-### Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-### Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-### Authors
-
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-### License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
